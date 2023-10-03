@@ -16,6 +16,9 @@
   ],
   "author": "GitHub",
   "license": "CC0-1.0",
+  "dependencies": {
+    "@duckdb/duckdb-wasm": "^1.27.0"
+  },
   "devDependencies": {
     "electron": "^26.2.4"
   }
