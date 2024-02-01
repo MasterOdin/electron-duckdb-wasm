@@ -20,6 +20,6 @@
     "@duckdb/duckdb-wasm": "^1.28.0"
   },
   "devDependencies": {
-    "electron": "^26.2.4"
+    "electron": "^28.2.1"
   }
 }
